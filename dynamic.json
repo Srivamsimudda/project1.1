@@ -1,0 +1,50 @@
+{
+"profile":{
+	"img":"pub.jpg",
+	"name":"VAMSI ATHREYA",
+	"roll":"16A31A0547",
+	"place":"kakinada",
+	"des":"student cum web developer"
+},
+"career":{
+	"info":"achieving the unachievable"
+},
+"education":[
+	{
+		"sno":"1",
+		"degree":"Btech",
+		"college":"PEC",
+		"per":"8.4",
+		"yop":"2020"
+
+	},
+	{
+		"sno":"2",
+		"degree":"intermediate",
+		"college":"geetam junior college",
+		"per":"95",
+		"yop":"2017"	
+	},
+	{
+		"sno":"3",
+		"degree":"S.S.C",
+		"school":"Sama public school",
+		"per":"90",
+		"yop":"2015"
+	}
+],
+
+"languages":[
+	{
+		"lang":"english"
+	},
+	{
+		"lang":"hindi"
+	},
+	{
+		"lang":"telugu"
+	}
+]
+
+
+}

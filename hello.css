@@ -1,0 +1,136 @@
+.parent{
+	background-color: #96A9B0;
+	border-radius: 5%;
+	display: flex;
+	flex-direction: row;
+	padding: 2%;
+	justify-content: space-around;
+	margin-left: 20%;
+	margin-bottom: 5%;
+	margin-top: 10%;
+	margin-right: 20%;
+}
+div.child{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div.child3{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div.child2{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div{
+	background-color: #8199;
+}
+img{
+	height: 50%;
+	width: 100%;
+	border-radius: 10%;
+}
+body{
+	background-color: black;
+}
+@media screen and (min-width: 320px) and (max-width: 480px){
+	.parent{
+	background-color: #96A9B0;
+	border-radius: 10%;
+	padding: 5px;
+	display: inline-block;
+	justify-content: space-around;
+	margin-left: 20%;
+	margin-bottom: 5%;
+	margin-top: 10%;
+	margin-right: 20%;
+	border-radius: 5%;
+}
+div.child{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+	padding: 5px;
+}
+div.child3{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div.child2{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div{
+	background-color: #8199;
+}
+img{
+	height: 50%;
+	width: 100%;
+	border-radius: 10%;
+}
+body{
+	background-color: black;
+}
+}
+@media screen and (min-width: 481px) and (max-width: 600px){
+	.parent{
+	background-color: #96A9B0;
+	border-radius: 5%;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 2%;
+	justify-content: space-around;
+	margin-left: 20%;
+	margin-bottom: 5%;
+	margin-top: 10%;
+	margin-right: 20%;
+}
+div.child{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div.child3{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div.child2{
+	box-shadow: 4px,4px,4px,4px;
+	text-align: center;
+	border-radius: 2%;
+	text-align: center;
+	background-color: #68669D;
+}
+div{
+	background-color: #8199;
+}
+img{
+	height: 50%;
+	width: 100%;
+	border-radius: 10%;
+}
+body{
+	background-color: black;
+}
